@@ -1,3 +1,8 @@
+
+An attempt to play around rails features with help from http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
+
+App is deployed to http://ec2-23-21-235-111.compute-1.amazonaws.com/posts
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
